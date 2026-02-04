@@ -36,13 +36,3 @@ Once an accident is detected:
 
 ---
 
-## 🖼️ Circuit Diagram Image<img width="1600" height="1016" alt="NodeMCU_MPU6050" src="https://github.com/user-attachments/assets/e72d1.		a)	Explain the Introduction and Design aspects of MEMS
-	b)	Describe the Design and Introduction of NEMS
-2.		a)	Explain the LIGA process and its role in high-aspect-ratio MEMS fabrication.
-	b)	Discuss how sputtering and etching techniques contribute to micromachining processes in MEMS.
-
-
-Important big question721c-da50-4316-8e6d-a5dc63caa69f" />
-
-Add the circuit diagram image file in this folder with the name: NodeMCU_MPU6050
-
