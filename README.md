@@ -36,8 +36,7 @@ node index.js
 
 ---
 
-### 🔹 7️⃣ Output
-👉 Result mention pannunga
+###
 
 ```markdown
 ## 📲 Output
