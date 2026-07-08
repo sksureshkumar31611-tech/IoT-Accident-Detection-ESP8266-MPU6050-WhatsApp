@@ -10,6 +10,7 @@ void setup() {
   Wire.beginTransmission(MPU);
   Wire.write(0x6B);     // Power management register
   Wire.write(0);       // Wake up MPU6050
+  
   Wire.endTransmission(true);
 
   Serial.println("Accelerometer Test Started");
